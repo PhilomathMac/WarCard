@@ -20,4 +20,4 @@ Simply clone and run. No fancy changes necessary.
 
 ## Attributions
 
-This was developed using ideas from CodeWithChris's iOS Foundations course. Check out the full course at [https://codewithchris.com/](https://codewithchris.com/)
+This was developed using in CodeWithChris's iOS Foundations course. Check out the full course at [https://codewithchris.com/](https://codewithchris.com/)
