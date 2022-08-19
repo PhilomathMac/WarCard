@@ -9,10 +9,13 @@ An app built with swiftUI to play war against a computer.
 
 ## Skills Practiced
 
-* ?
+* Accessing Assets
+* State Variables
+* Bindings
 
 ## Future Features / Fixes
-* ?
+* Have winning score
+* Store past game scores
 
 ## Use Instructions
 
